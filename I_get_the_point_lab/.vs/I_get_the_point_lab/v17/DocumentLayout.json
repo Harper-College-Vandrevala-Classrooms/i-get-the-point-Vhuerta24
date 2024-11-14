@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nessa\\OneDrive\\Documents\\GitHub\\i-get-the-point-Vhuerta24\\I_get_the_point_lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03A99A48-2A7C-4FB8-A70D-49388BD39C53}|I_get_the_point_lab\\I_get_the_point_lab.vcxproj|C:\\Users\\nessa\\OneDrive\\Documents\\GitHub\\i-get-the-point-Vhuerta24\\I_get_the_point_lab\\I_get_the_point_lab\\I_get_the_point_lab.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03A99A48-2A7C-4FB8-A70D-49388BD39C53}|I_get_the_point_lab\\I_get_the_point_lab.vcxproj|solutionrelative:I_get_the_point_lab\\I_get_the_point_lab.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "I_get_the_point_lab.cpp",
+              "DocumentMoniker": "C:\\Users\\nessa\\OneDrive\\Documents\\GitHub\\i-get-the-point-Vhuerta24\\I_get_the_point_lab\\I_get_the_point_lab\\I_get_the_point_lab.cpp",
+              "RelativeDocumentMoniker": "I_get_the_point_lab\\I_get_the_point_lab.cpp",
+              "ToolTip": "C:\\Users\\nessa\\OneDrive\\Documents\\GitHub\\i-get-the-point-Vhuerta24\\I_get_the_point_lab\\I_get_the_point_lab\\I_get_the_point_lab.cpp",
+              "RelativeToolTip": "I_get_the_point_lab\\I_get_the_point_lab.cpp",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAEsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-14T02:18:02.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
